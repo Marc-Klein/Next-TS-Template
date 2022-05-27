@@ -17,7 +17,7 @@ npm run dev
 
 ## Atomic design
 
-The template makes use of Atomc Design. Read more about in the
+The template makes use of Atomc Design. Read more about it in the
 [documentation](./docs/ATOMIC_DESIGN.md).
 
 ## Commands
