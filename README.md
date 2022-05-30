@@ -5,7 +5,6 @@ The following tools/libraries are used:
 - [Stylelint](https://stylelint.io/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
-- [Cypress](https://cypress.io/)
 
 ## Getting started
 
